@@ -1,0 +1,18 @@
+/.DS_Store
+/added_tokens.json
+/bnc baby
+/config.json
+/generation_config.json
+/legal_simplifier.py
+/model.safetensors
+/run_lab_ml.py
+/special_tokens_map.json
+/spiece.model
+/tokenizer_config.json
+/train_prepositions.csv
+/training_args.bin
+# Ignore big files and folders
+/corpus_combined.txt
+/val_prepositions.csv
+/CLCmini/
+/t5-simplifier/
