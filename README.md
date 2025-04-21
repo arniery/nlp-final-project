@@ -37,7 +37,7 @@ Depending on your corpus, you may not need to unpack it the way I did with json,
 
 ### Installing
 
-* Please download the .ipynb file to run the Jupyter notebook. It was not tested in pure .py form.
+* Please download the legalesemodelfinal.py file and convert back to .ipynb to run in a Jupyter notebook (the formatting is already there). It was not tested in pure .py form.
 * If you are not running on an Apple Silicon machine, the lines steering the model away from FP16 (half-precision floating point) and onto the MPS are likely unnecessary or detrimental. Depending on your machine, let the model use the CPU to train, or double-check in the T5 documentation which memory it should use.
 
 ## Help
